@@ -27,6 +27,6 @@ setInterval(async function() {
 
 //////////////////////////////  server > id server da bne 
 
-/////////////////////////////   live > link quran da bne
+/////////////////////////////   live > link dangaka da bne
 
 jano.login("")
